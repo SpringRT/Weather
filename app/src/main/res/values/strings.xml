@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="input_city">Fill city name:</string>
+    <string name="OK">OK</string>
+    <string name="hint">f.e. Moscow</string>
+    <string name="base_url">http://api.openweathermap.org/data/2.5/</string>
+    <string name="APP_ID">fa6c58a4e012f981a9d7a1f807794949</string>
+</resources>
